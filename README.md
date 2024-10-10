@@ -1,2 +1,2 @@
 # Django-Ecommerce-RestApI-with-Payment-Integration
-This is a complete Ecommerce Restful API built with Django and Django Rest Framework and to cap it all a payment gateway (Flutterwave) was implemented.
+This is a fully developed E-commerce RESTful API built using Django and Django Rest Framework, featuring the integration of a payment gateway (Flutterwave) to complete the functionality.
